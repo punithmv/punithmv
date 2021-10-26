@@ -32,5 +32,5 @@ Here are some ideas to get you started:
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-<img align="right" height="200px" width="50%" src="https://github-readme-stats.vercel.app/api?username=punithmv&show_icons=true&theme=radical&hide=stars"/>
+<img align="left" height="200px" width="50%" src="https://github-readme-stats.vercel.app/api?username=punithmv&show_icons=true&theme=radical&hide=stars"/>
 
